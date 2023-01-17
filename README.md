@@ -1,4 +1,4 @@
-## Opa! Seja bem vindo(a) ao meu perfil
+## Opa! Seja bem vindo(a) ao meu perfil 🌴
 
  <div>
    <a href="https://github.com/Chosuke1989">
