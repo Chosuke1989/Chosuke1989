@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Pedro 💀
+## Opa! Seja bem vindo(a) ao meu perfil
 
  <div>
    <a href="https://github.com/Chosuke1989">
